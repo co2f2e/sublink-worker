@@ -16,4 +16,4 @@ jobs:
           source_branch: main
           destination_repo: co2f2e/sublink-worker
           destination_branch: main
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
